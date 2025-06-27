@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_M1D_LOGO_URL_HERE" alt="M1D Logo" width="150"/>
+  <img src="https://i.ibb.co/L9g7GgR/OIG-1.jpg" alt="M1D Logo" width="400"/>
 </p>
 
 <h1 align="center">Welcome to Metaone Designs (M1D)</h1>
@@ -19,13 +19,13 @@
 
 ---
 
-### Our Core Projects
+### Our Core Technology
 
-Our ecosystem is designed to make launching high-quality metaverse experiences faster and easier than ever.
+Our ecosystem is centered around the **M1D Networked Guide**, a powerful toolkit that makes launching high-quality metaverse experiences faster and easier than ever.
 
-- **[Decentraland Venue Starter Kit](https://github.com/Metaone-Designs/decentraland-venue-starter-kit)**: The fastest way to launch your virtual club, gallery, or event space. Comes with a networked video player and high-performance components out of the box.
+- **[Decentraland Venue Starter Kit](https://github.com/Metaone-Designs/decentraland-venue-starter-kit)**: The best way to get started with the M1D Networked Guide. This open-source scene provides a production-ready venue that is pre-configured with our core technology, allowing you to launch a space with your own custom video content in minutes.
 
-- **`@m1d/dcl-components`**: The core component library that powers our ecosystem. It contains reusable, high-performance components for Decentraland scenes. *(Note: This repository is currently private).*
+---
 
 ### Get Involved
 
