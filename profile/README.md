@@ -23,7 +23,7 @@
 
 Our ecosystem is centered around the **M1D Networked Guide**, a powerful toolkit that makes launching high-quality metaverse experiences faster and easier than ever.
 
-- **[Decentraland Venue Starter Kit](https://github.com/Metaone-Designs/decentraland-venue-starter-kit)**: The best way to get started with the M1D Networked Guide. This open-source scene provides a production-ready venue that is pre-configured with our core technology, allowing you to launch a space with your own custom video content in minutes.
+- **[Decentraland Venue Starter Kit](https://github.com/Metaone-Designs/m1d-components-starter-scene)**: The best way to get started with the M1D Networked Guide. This open-source scene provides a production-ready venue that is pre-configured with our core technology, allowing you to launch a space with your own custom video content in minutes.
 
 ---
 
