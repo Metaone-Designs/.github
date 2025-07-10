@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Metaone-Designs/brand-assets/refs/heads/main/m1d-logo-dark.jpg" alt="M1D Logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/Metaone-Designs/brand-assets/refs/heads/main/metaone-designs-logo.jpg" alt="M1D Logo" width="400"/>
 </p>
 
 <h1 align="center">Welcome to Metaone Designs (M1D)</h1>
