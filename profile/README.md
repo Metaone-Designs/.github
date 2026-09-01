@@ -9,9 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://m1d.io" target="_blank">
-    <img src="https://img.shields.io/badge/Website-m1d.io-blue?style=for-the-badge" alt="Website"/>
-  </a>
   <a href="https://discord.gg/FnVxT8cVd2" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Join%20the%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
